@@ -8,7 +8,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-public class ReverseArray {
+public class LKG_001_ReverseArray {
 
     // Complete the reverseArray function below.
     static int[] reverseArray(int[] a) {
